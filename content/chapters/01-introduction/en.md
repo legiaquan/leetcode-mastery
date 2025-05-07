@@ -67,4 +67,4 @@ Start your journey to master algorithms and data structures with us. Each chapte
 
 ---
 
-[Next: Chapter 2 - Overview of Technical Interviews](../02-technical-interviews/index.md) 
+[Next: Chapter 2 - Overview of Technical Interviews](../02-technical-interviews/en.md) 

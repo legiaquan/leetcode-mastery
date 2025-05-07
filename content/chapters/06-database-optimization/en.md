@@ -282,4 +282,4 @@ graph TD
 
 ---
 
-[Previous: Chapter 5 - System Design](../05-system-design/index.md) | [Next: Chapter 7 - Algorithm Analysis](../07-algorithm-analysis/index.md) 
+[Previous: Chapter 5 - System Design](../05-system-design/en.md) | [Next: Chapter 7 - Algorithm Analysis](../07-algorithm-analysis/en.md) 

@@ -8,7 +8,7 @@
 
 ### Mục lục
 
-1. [Giới thiệu](content/chapters/01-introduction/vi.md)
+1. [Giới thiệu](content/chapters/01-introduction/index.md)
 2. **Tổng quan về phỏng vấn kỹ thuật**
 3. **Lộ trình học thuật toán & cấu trúc dữ liệu**
 4. **Các chủ đề thuật toán quan trọng**

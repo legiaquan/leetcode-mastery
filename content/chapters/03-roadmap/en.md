@@ -950,4 +950,4 @@ This learning roadmap is designed to help you build a solid foundation in algori
 
 ---
 
-[Previous: Chapter 2 - Overview of Technical Interviews](../02-technical-interviews/index.md) | [Next: Chapter 4 - Key Algorithm Topics](../04-algorithms/index.md) 
+[Previous: Chapter 2 - Overview of Technical Interviews](../02-technical-interviews/en.md) | [Next: Chapter 4 - Key Algorithm Topics](../04-algorithms/en.md) 

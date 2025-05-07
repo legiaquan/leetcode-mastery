@@ -305,4 +305,4 @@ def post_tweet(user_id, tweet):
 
 ---
 
-[Previous: Chapter 4 - Key Algorithm Topics](../04-algorithms/index.md) | [Next: Chapter 6 - Database Optimization](../06-database-optimization/index.md) 
+[Previous: Chapter 4 - Key Algorithm Topics](../04-algorithms/en.md) | [Next: Chapter 6 - Database Optimization](../06-database-optimization/en.md) 

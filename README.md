@@ -1,4 +1,4 @@
-# LeetCode Mastery – Lộ trình Làm Chủ Giải Thuật & Phỏng Vấn Kỹ Thuật big tech
+# LeetCode Mastery – Lộ trình Làm Chủ Giải Thuật & Phỏng Vấn Kỹ Thuật
 
 [English Version](#english-version) | [Tiếng Việt](#tiếng-việt)
 
